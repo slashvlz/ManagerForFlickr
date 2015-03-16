@@ -11,7 +11,7 @@ namespace mrFlickr
     {
 
         public const string ApiKey = "6955460ccf9ada544467db10027c443e";
-        public const string SharedSecret = "cfafac5e2caca114"; 
+        public const string SharedSecret = "cfafac5e2caca114"; //секрет
 
         public static Flickr GetInstance()
         {
